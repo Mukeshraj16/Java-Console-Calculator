@@ -27,5 +27,5 @@ loops for continuous operations, and handles divide-by-zero scenarios gracefully
 
 ## Project Structure
 -Java-Console-Calculator/
--├── Calculator_task1.java
--└── README.md
+├── Calculator_task1.java
+└── README.md
